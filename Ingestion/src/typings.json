@@ -1,0 +1,22 @@
+{
+  "name": "typetestpack",
+  "globalDependencies": {
+    "lodash": "github:DefinitelyTyped/DefinitelyTyped/lodash/lodash.d.ts#19b6e80e68f7dec21e453c225680fe3d9899e946",
+    "memory-cache": "registry:dt/memory-cache#0.0.0+20160316155526",
+    "mocha": "github:DefinitelyTyped/DefinitelyTyped/mocha/mocha.d.ts#33585c55fbb7cd3cfc59d18a3b87f4ae6012eaff",
+    "moment": "registry:dt/moment#2.11.1+20161010105546",
+    "moment-timezone": "registry:dt/moment-timezone#0.2.5+20160329220348",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#8df97176d2f27399ffc562098409223fef6c2304",
+    "winston": "registry:dt/winston#0.0.0+20161006194546"
+  },
+  "devDependencies": {
+    "chai": "registry:npm/chai#3.5.0+20160723033700",    "chai-as-promised": "registry:npm/chai-as-promised#5.1.0+20160310030142",
+    "sinon": "registry:npm/sinon#1.16.0+20160723033700",
+    "sinon-chai": "registry:npm/sinon-chai#2.8.0+20160310030142"
+  },
+  "dependencies": {
+    "chokidar": "registry:npm/chokidar#1.6.0+20160817083815",
+    "mongoose": "registry:npm/mongoose#4.3.5+20160628072220",
+    "node-uuid": "registry:npm/node-uuid#1.4.7+20160723033700"
+  }
+}
